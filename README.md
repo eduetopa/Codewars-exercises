@@ -49,6 +49,6 @@ On Codewars, exercises are ranked by difficulty:
 
 ## 🧠 My Codewars Profile
 
-🔗 [Visit my profile here](https://www.codewars.com/users/your-username)
+🔗 [Visit my profile here](https://www.codewars.com/users/eduetopa)
 
 ---
