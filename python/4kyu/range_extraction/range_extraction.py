@@ -1,6 +1,6 @@
 
 
-def solution(args):
+def range_extraction(args):
     flag = False
     first = None
     res = ''
