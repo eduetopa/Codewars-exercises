@@ -1,7 +1,7 @@
 
 # 🧠 Codewars - Solved Exercises
 
-This repository contains my solutions to programming challenges from [Codewars](https://www.codewars.com/), solved in different difficulty levels (`kyu`) and various programming languages(python for the moment). I use this repo to practice, improve my logic, and strengthen my knowledge.
+This repository contains my solutions to programming challenges from [Codewars](https://www.codewars.com/), solved in different difficulty levels (`kyu`) and various programming languages(python for the moment), and the tests I develop for the challenges. I use this repo to practice, improve my logic, and strengthen my knowledge.
 
 ---
 
@@ -11,8 +11,12 @@ I organize the exercises by language and difficulty level (`kyu`), following thi
 
 codewars-exercises/
 ├── python/
-│ ├── 8kyu/
-│ ├── 7kyu/
+│ ├── 5kyu/ 
+│ │ │── exercise/
+│ │ │ │── exercise.py
+│ │ │ │── test_exercise.py
+│ │ │ │── description.md
+│ ├── 4kyu/
 │ └── ...
 ├── javascript/
 │ ├── 8kyu/
