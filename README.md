@@ -9,19 +9,19 @@ This repository contains my solutions to programming challenges from [Codewars](
 
 I organize the exercises by language and difficulty level (`kyu`), following this structure:
 
-codewars-exercises/
-├── python/
-│ ├── 5kyu/ 
-│ │ │── exercise/
-│ │ │ │── exercise.py
-│ │ │ │── test_exercise.py
-│ │ │ │── description.md
-│ ├── 4kyu/
-│ └── ...
-├── javascript/
-│ ├── 8kyu/
-│ └── ...
-└── README.md
+- codewars-exercises/
+    - python/
+        - 5kyu/ 
+            - exercise/
+                - exercise.py
+                - test_exercise.py
+                - description.md
+        - 4kyu/
+        - ...
+    - javascript/
+        - 8kyu/
+        - ...
+- README.md
 
 
 ---
