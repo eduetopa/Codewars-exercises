@@ -1,5 +1,5 @@
 import pytest
-from rgb_to_hex_conversion import rgb  # Reemplaza 'tu_archivo' por el nombre real del archivo .py
+from rgb_to_hex_conversion import rgb  
 
 def test_rgb_normal_values():
     assert rgb(255, 255, 255) == "FFFFFF"

@@ -1,0 +1,23 @@
+# Ignorar caché de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Entornos virtuales
+env/
+venv/
+
+# Archivos de prueba
+.coverage
+.tox/
+pytest_cache/
+
+# Configuración del IDE
+.vscode/
+.idea/
+*.swp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
